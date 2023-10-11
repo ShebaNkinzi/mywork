@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: whitesmoke;
+    color: wheat;
+    text-align: center;
+    background-image: url(sunset.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    font-size: 50px;
+}
+
+input{
+    width: 70px;
+    height: 45px;
+    font-size: 40px;
+    border-radius: 20px;
+    margin: 15px;
+    background-color: wheat;
+    color: black;
+    border-style: none;
+
+}
+
+.btn:hover{
+    background-color:orange;
+    cursor: pointer;
+}
